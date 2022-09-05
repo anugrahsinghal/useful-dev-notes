@@ -36,9 +36,9 @@ public class NameYourConfig {
 	@ToString.Exclude
 	private String password;
 
-	// the class names do not matter
-    // the variable's name matters as they are what are used
-    // to pick the properties
+	// the class names do not matter  
+	// the variable's name matters as they are what are used
+	// to pick the properties
 	@NotNull
 	private AnotherNestedObject nested;
 
@@ -47,9 +47,9 @@ public class NameYourConfig {
 	@ToString
 	public static class AnotherNestedObject {
 		// spring binds
-        // some-property
-        // someProperty
-        // some other variations too to the same variable
+		// some-property
+		// someProperty
+		// some other variations too to the same variable
 		@NotBlank
 		private String someProperty;
 	}
