@@ -4,7 +4,7 @@ Some notes on feratures that I refer/have to work on, from time to time
 
 <!-- TOC -->
 * [actuator config when using on dev or on k8s dev](actuator-on-dev-k8s.md)
-* [Add `@ConfigurationProperties` to your app](add-configuration-props.md)
+* [Using `@ConfigurationProperties` with your app](add-configuration-props.md)
 * [Add Testcontainer to your spring app](add-testcontainer-support.md)
 * [reduce maven test logging](reduce-maven-test-logging.md)
 * [Spring - Build a container without dockerfile config](build-container-witout-dockerfile.md)
