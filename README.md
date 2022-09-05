@@ -15,4 +15,7 @@ Some notes on feratures that I refer/have to work on, from time to time
 # Todo
 - spring-security-auth-authz basic configs
 - pom configs for extra tools like checkstyle/etc
+- flyway
+- liquibase
+- DB proxy to view queries
 - more ideas ?

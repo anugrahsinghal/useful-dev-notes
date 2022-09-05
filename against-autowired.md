@@ -17,6 +17,8 @@
 // Use @RequiredArgsConstructor
 @RequiredArgsConstructor
 public class YourComponent implements IComponent {
+	// note that final is important as it make the dependency a required one
+    // will not work without final
 	private final @NonNull RestTemplate restTemplate;
 	/* // The Generated code
 	public YourComponent(@NonNull RestTemplate restTemplate) {
