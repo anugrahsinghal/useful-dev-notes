@@ -48,6 +48,7 @@ public class NameYourConfig {
 	public static class AnotherNestedObject {
 		// spring binds
 		// some-property
+		// some_property
 		// someProperty
 		// some other variations too to the same variable
 		@NotBlank
@@ -62,6 +63,7 @@ public class NameYourConfig {
 prefix.password=terces
 prefix.nested.someProperty=value
 prefix.nested.some-property=value
+prefix.nested.some_property=value
 # both are same
 ```
 ```yaml
@@ -71,5 +73,6 @@ prefix:
   nested:
     someProperty: value
     some-property: value
+    some_property: value
     # both are same
 ```
