@@ -11,6 +11,8 @@ Some notes on feratures that I refer/have to work on, from time to time
 * [Create a Dockerfile for Spring in seconds](spring-dockerfile-config.md)
 * [Adding Swagger configuration](swagger-doc.md)
 * [Writing tests with mockserver and RestTemplate](test-w-mockserver-resttemplate.md)
+* [View Jpa/Jdbc queries](view-queries-jpa.md)
+* [Reduce use of `@Autowired`](against-autowired.md)
 <!-- TOC -->
 # Todo
 - spring-security-auth-authz basic configs
