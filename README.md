@@ -3,15 +3,14 @@
 Some notes on feratures that I refer/have to work on, from time to time
 
 <!-- TOC -->
-* [build a spring container without dockerfile](build-container-witout-dockerfile.md)
 * [actuator config when using on dev or on k8s dev](actuator-on-dev-k8s.md)
-* [add-configuration-props](add-configuration-props.md)
-* [add-testcontainer-support](add-testcontainer-support.md)
-* [build-container-witout-dockerfile](build-container-witout-dockerfile.md)
-* [reduce-maven-test-logging](reduce-maven-test-logging.md)
-* [spring-dockerfile-config](spring-dockerfile-config.md)
-* [swagger-doc](swagger-doc.md)
-* [test-w-mockserver-resttemplate](test-w-mockserver-resttemplate.md)
+* [Add `@ConfigurationProperties` to your app](add-configuration-props.md)
+* [Add Testcontainer to your spring app](add-testcontainer-support.md)
+* [reduce maven test logging](reduce-maven-test-logging.md)
+* [Spring - Build a container without dockerfile config](build-container-witout-dockerfile.md)
+* [Create a Dockerfile for Spring in seconds](spring-dockerfile-config.md)
+* [Adding Swagger configuration](swagger-doc.md)
+* [Writing tests with mockserver and RestTemplate](test-w-mockserver-resttemplate.md)
 <!-- TOC -->
 # Todo
 - spring-security-auth-authz basic configs
