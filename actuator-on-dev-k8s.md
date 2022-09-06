@@ -38,7 +38,7 @@ management:
 ```
 
 3. The k8s config
-
+[More info](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#actuator.endpoints.kubernetes-probes)
 ```yaml
 apiVersion: apps/v1
 kind: Deployment
