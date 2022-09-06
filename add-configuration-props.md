@@ -76,3 +76,7 @@ prefix:
     some_property: value
     # both are same
 ```
+
+Further Reading:
+- [Details on @ConfigurationProperties](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.external-config.typesafe-configuration-properties)
+- [@Value vs @ConfigurationProperties](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.external-config.typesafe-configuration-properties.vs-value-annotation)
